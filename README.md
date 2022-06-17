@@ -7,7 +7,9 @@ create two folders (one inside other), in Local Disk C and named them TASM and B
 
 And now type this lines - 
 tasm/zi file.name
+
 tlink/v file.name
+
 td file.name
 
 Finally, you are in the game!
